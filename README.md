@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm José Julián Rodríguez Muñoz<br><br>🚀 I’m a rising senior and nationally recognized student researcher from Puerto Rico, currently studying at Escuela Especializada Dr. Pedro Albizu Campos. My passion lies in solving real-world problems through engineering, applied physics, and innovative technologies, with a strong foundation in both theory and experimentation.<br><br>🎓 I hold professional certifications in Java, Python, and C programming, which complement my involvement in computational modeling, electronics, and scientific research.<br><br>🔬 Over the past few years, I’ve led and developed award-winning research projects recognized by:<br><br>ISEF 2025 (Regeneron International Science and Engineering Fair) finalist and Special Award Winner of the MAWHIBA Foundation's Full Ride Scholarship.<br><br>FICEP (Foro Internacional de Ciencias) 2nd place overall<br><br>MILSET ESI 2025 (Expo-Science International Fair) finalist<br><br>National Science Fair of Puerto Rico – Grand Award Winner<br><br>📁 My GitHub showcases my independent work in sustainable energy systems, including a solar chip with integrated DC-AC inversion and advanced power electronics, including GaN/SiC inverters with SVPWM control<br><br>🔭 I’m currently working on two projects for my professional portfolio, these being a plasmonic nanoantenna arrays for infrared energy harvesting and the exploration of theoretical mathematics, currently focusing on computational studies of the Collatz Conjecture<br><br>🎯 My ultimate goal is to pursue undergraduate studies at MIT, where I can continue researching sustainable, high-efficiency systems at scale.<br><br>"How can a man care for his own horse, polish his lance and helmet, if he has lost the habit of caring for his own person, which is his most precious possession?"<br>— Alexander the Great<br><br>💬 Feel free to explore my repositories, reach out for collaboration, or contact me for mentorship, project opportunities, or academic programs. <br><br>PD:<br>(I'm very lazy, so I often forget to update the repositories. If you see something out of order, don't hesitate to write me up. I'll respond and fix what you guys point out.
 
-<!--
-**Cheito-Rodriguez2308/Cheito-Rodriguez2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61552900802127) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/joseej.rodz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jos%C3%A9-juli%C3%A1n-rodr%C3%ADguez-mu%C3%B1oz-800335360/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@vegito2506) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jose.rodriguez.munoz2308@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cheito-Rodriguez2308&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Cheito-Rodriguez2308&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheito-Rodriguez2308&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Cheito-Rodriguez2308&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Cheito-Rodriguez2308&icon=2&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
